@@ -1,0 +1,9 @@
+Commands to uploading a file or document on git:
+if you want to ignore a file just make a .gitignore text document by touch .gitignore
+
+git init to make file repository
+git add . to make all file on unstage
+git commit -m "Initaial commit" to take a snapshot
+git status to check about your which file is unstaged
+build a ssh keygen
+git push origin master
